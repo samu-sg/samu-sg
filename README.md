@@ -35,9 +35,9 @@ Add later
 <a href="https://www.hackerrank.com/samu_sg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samu_sg" height="30" width="40" /></a>
 </p>
 
-<h4 align="center">Studying 🧑‍🎓 BS in Computer Science and Technology
-💡Currently learning about: Data structures and algorithms
-💖 I love videogames!
+<h4 align="center">Studying 🧑‍🎓 BS in Computer Science and Technology <br>
+💡Currently learning about: Data structures and algorithms <br>
+✨ I love videogames! I want to be a videogame programmer :)
 </h4>
 
 
